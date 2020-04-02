@@ -16,7 +16,7 @@ Een textadventure door donkere grotten vluchtend van corona zombies!
 |<img width=500/>|<img width=300/>|
 
 
-   [LiveDemo]: <http://sjo.hosts.ma-cloud.nl/2018_2019/PROJ-1.3-19-20-GD-textadventure/>
+   [LiveDemo]: <http://30171.hosts2.ma-cloud.nl/bewijzenmap/periode1.2/GitHub/map%20quest/MAP-Qeust/>
    [Design]: <docs/design.png>
    [Map]:<docs/map.png>
 
