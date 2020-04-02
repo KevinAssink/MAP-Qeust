@@ -6,8 +6,8 @@ const imageLocation = document.getElementById('imageLocation');
 const myDescription = document.getElementById('description');
 const myInventory = document.getElementById('inventory');
 
-//let currentLocation = 15;
-let currentLocation = 14;
+let currentLocation = 15;
+
 
 let locations = []; // 0 tot 3 zijn geen echte locaties om de map klein te houden.
 locations[0] = "geen locatie";
